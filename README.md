@@ -19,5 +19,7 @@ A Flutter App to Implement Pagination
   - Code follows all the standard practices and taken care wioth alll the error handling
 
 ## Screenshots
-![image](https://github.com/Tanujkarteek/Discovery/assets/97498125/60d56f10-9f10-439b-b659-b9ca034d9149)
-![image](https://github.com/Tanujkarteek/Discovery/assets/97498125/bd16223e-7323-47e2-812a-9eef685aa80e)
+<div>
+  <img src="https://github.com/Tanujkarteek/Discovery/blob/main/assets/discovery.png" width="300">
+  <img src="https://github.com/Tanujkarteek/Discovery/blob/main/assets/nomore.png" width="300">
+</div>
